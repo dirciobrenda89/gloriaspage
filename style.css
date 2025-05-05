@@ -336,7 +336,7 @@ body{
   }
   .hero-image2 {
   
-    background-image: linear-gradient(rgba(235, 217, 225, 0.5), rgba(255, 255, 255, 0.5)), url("HEROabout.jpg");
+    background-image: linear-gradient(rgba(235, 217, 225, 0.5), rgba(255, 255, 255, 0.5)), url("heroabout.jpg");
   
     height: 50%;
   
